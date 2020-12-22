@@ -1,0 +1,40 @@
+
+#container{
+    height: 50px;
+}
+
+#logo{
+    width: 50px;
+    height: 50px;
+}
+
+#contenido{
+    min-height: 500px;
+}
+
+#piepagina{
+    min-height: 200px;
+}
+
+
+
+#button-up{
+transform: rotate(-90deg);
+}
+
+#button-down{
+    transform: rotate(90deg);
+}
+
+.botones{
+    position: absolute;
+    top:  160px;
+    right: 25px;
+}
+
+/*
+.redes{
+    width: 50px;
+    height: 50px;
+}
+*/
